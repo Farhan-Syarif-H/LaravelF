@@ -11,7 +11,7 @@
           <p class="content-text">
             <b>Students at Wikrama Vocational Highschool</b>
           </p>
-
+  
         </div>
       </div>
       <!-- Short Description -->
